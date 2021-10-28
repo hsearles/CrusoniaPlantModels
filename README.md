@@ -1,5 +1,5 @@
 # CrusoniaPlantModels
-The Crusonia plant models capital as a self-perpetuating fund of wealth that can yield a permanent income in the form of its natural growth.
+The <b>Crusonia plant</b> models capital as a self-perpetuating fund of wealth that can yield a permanent income in the form of its natural growth.
 
 What follows within this repository are three simple models of intertemporal choice based on a mythical perennial plant, the Crusonia plant, that grows at some constant rate, π. The Crusonia plant is a metaphor for capital. One can then imagine that there is some solitary agent, whom I name Friday, who harvests and then consumes some of a Crusonia plant's mass to satisfy his most urgent demands in a given period of time. Although Friday's demands are boundless, the Crusonia plant has a finite mass. As a result, Friday must economize his use of his Crusonia plant. He must choose to consume Crusonia on a schedule that optimizes his capability to jointly satisfy his most urgent present and future demands. Friday might also prefer to satisfy immediate demands compared to distant ones and thus might discount those future demands by some discount factor, ß. 
 
